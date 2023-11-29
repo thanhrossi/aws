@@ -1,0 +1,13 @@
+regions:
+  - global
+  - us-east-1
+  - us-east-2
+
+account-blocklist:
+  - "999999999999" # production
+accounts:
+  "024565681949":
+
+resource-types:
+  targets:
+    - S3Bucket
