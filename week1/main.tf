@@ -10,8 +10,8 @@ terraform {
 # Configure the AWS Provider
 provider "aws" {
   region = "us-east-1"
-  access_key = "AKIAQLOB2R4O2XZTJ4FR"
-  secret_key = "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"
+  access_key = ""
+  secret_key = ""
 }
 resource "aws_s3_bucket" "bucket" {
   bucket = "thanhtv1bucket"
