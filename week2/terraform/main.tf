@@ -14,3 +14,7 @@ module "ec2" {
 module "s3" {
   source = "./S3"
 }
+
+module "iam" {
+  source = "./Iam"
+}
