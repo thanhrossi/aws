@@ -18,3 +18,12 @@ module "s3" {
 module "iam" {
   source = "./Iam"
 }
+
+module "awsOrg" {
+  source = "./AwsOrganization"
+}
+
+module "scp" {
+  source = "./ServiceControlPolicies"
+}
+
