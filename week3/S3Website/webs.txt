@@ -1,0 +1,2 @@
+https://thanhtranzz.s3.ap-southeast-1.amazonaws.com/index.html
+https://thanhtranzz.s3.ap-southeast-1.amazonaws.com/404.html
